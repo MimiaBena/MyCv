@@ -1,0 +1,13 @@
+{
+  "entrypoints": {
+    "contactform": {
+      "js": [
+        "/static/js/runtime.js",
+        "/static/js/contactform.js"
+      ],
+      "css": [
+        "/static/js/contactform.css"
+      ]
+    }
+  }
+}
