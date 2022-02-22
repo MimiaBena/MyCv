@@ -285,6 +285,7 @@ p.lead {
 {
     margin-bottom: 20px;
     position: relative;
+    list-style: none;
 }
 .timeline > li:after
 {
