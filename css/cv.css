@@ -427,11 +427,7 @@ p.lead {
     font-family: sans-serif;
     text-transform: uppercase;
 }
-#project{
-    display: flex;
-    height: 100vh;
-    overflow: hidden;
-}
+
 .description_part{
     flex-direction: column;
     flex: 1;
